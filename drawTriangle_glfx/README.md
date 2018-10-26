@@ -1,4 +1,7 @@
-#This is a simple code to draw triangle cover the screen 
+# draw triangle covers the screen 
+
+
+
 If you aren't familiar with glfw you should watch this video first 
 
 https://www.youtube.com/watch?v=k9LDF016_1A
